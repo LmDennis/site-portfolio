@@ -3,6 +3,12 @@
 # Bem vindo ao curso Git e Github.
 nesse curso você vai dominar todo **git** e **github** _do zero ao profissional._ 
 
+
+**Ultimas updates** 
+- [x] Site responsivo.
+- [ ] Login com facebook.
+- [ ] Pagina sobre a empresa.
+
 ## Modulos:
 * Começando com Git 
 * Aprendendo sobre branches 
@@ -47,7 +53,7 @@ function showName (name){
 </h1>
 ```
 
-** CSS padrão do projeto: **
+**CSS padrão do projeto:**  
 ```css
 .titulo {
     bacnkground-color: #ffff;
